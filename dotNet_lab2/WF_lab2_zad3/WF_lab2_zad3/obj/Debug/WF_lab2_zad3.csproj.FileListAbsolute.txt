@@ -1,0 +1,11 @@
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\bin\Debug\WF_lab2_zad3.exe.config
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\bin\Debug\WF_lab2_zad3.exe
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\bin\Debug\WF_lab2_zad3.pdb
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.csproj.AssemblyReference.cache
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.Properties.Resources.resources
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.csproj.GenerateResource.cache
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.csproj.CoreCompileInputs.cache
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.exe
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.pdb
+C:\Users\Daniel-\source\repos\dotNet_lab2\WF_lab2_zad3\WF_lab2_zad3\obj\Debug\WF_lab2_zad3.Form1.resources
